@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(.\\\\node_modules\\\\.bin\\\\tailwindcss init *)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\97253\\\\Desktop\\\\פרויקטים\\\\jobtracker\\\\frontend\\\\node_modules\\\\.bin\" | Select-Object -First 30 | ForEach-Object { $_.Name })",
+      "Bash(mkdir -p \"C:\\\\Users\\\\97253\\\\Desktop\\\\פרויקטים\\\\jobtracker\\\\.claude\" 2>/dev/null; ls \"C:\\\\Users\\\\97253\\\\Desktop\\\\פרויקטים\\\\jobtracker\\\\.claude\" 2>/dev/null || echo \"dir created\")",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
