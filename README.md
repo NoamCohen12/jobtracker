@@ -1,7 +1,8 @@
 # Job Application Tracker
 
-A full-stack web application for tracking job applications throughout the hiring process.  
-Built to deepen my skills in **Java**, **Spring Boot**, and backend development.
+A backend REST API for tracking job applications throughout the hiring process.  
+Built to deepen my skills in **Java**, **Spring Boot**, and backend development.  
+The frontend was provided separately and consumes this API.
 
 ---
 
@@ -35,7 +36,7 @@ Every user sees only their own data — full isolation between accounts.
 | **Lombok** | Boilerplate reduction |
 | **Maven** | Build & dependency management |
 
-### Frontend
+### Frontend (provided separately)
 | Technology | Usage |
 |---|---|
 | React + Vite | UI framework |
@@ -160,4 +161,4 @@ App runs at `http://localhost:5173`
 
 **Noam Cohen**  
 B.Sc. Computer Science — Ariel University  
-[LinkedIn](https://linkedin.com/in/noamcohen12) | [GitHub](https://github.com/NoamCohen12)
+[LinkedIn](https://www.linkedin.com/in/noam-cohen-a7802b275/) | [GitHub](https://github.com/NoamCohen12)
